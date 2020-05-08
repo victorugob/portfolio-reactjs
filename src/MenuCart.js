@@ -1,9 +1,13 @@
 import React from 'react';
 import PersonIcon from '@material-ui/icons/Person';
 import './MenuCart.css'
+import { useMediaQuery } from 'react-responsive';
+
 
 
 function MenuCart() {
+
+    
     return(
         <nav>
         <ul className="lista-menu">
