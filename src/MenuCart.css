@@ -1,0 +1,12 @@
+.lista-menu {
+    list-style: none;
+    padding: 0;
+}
+
+.lista-cart {
+    vertical-align: text-top;
+    margin-top: 15px;
+}
+.lista-menu li {
+    height: 40px;
+}
