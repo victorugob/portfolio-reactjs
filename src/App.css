@@ -59,6 +59,8 @@
 
 @media screen and (max-width:620px) {
     #site-cart {
-        min-height: 550px !important;
+    height:calc(100vh - 50px);
+    min-height:calc(100vh - 50px);
+    max-height:calc(100vh - 50px);
     }
 }
