@@ -10,3 +10,8 @@
 .lista-menu li {
     height: 40px;
 }
+
+.link-a {
+    text-decoration: none;
+    color: white;
+}

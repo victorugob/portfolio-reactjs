@@ -1,0 +1,27 @@
+/* .content {
+    margin-top: 50px;
+    margin-bottom: 50px;
+    width: 870px;
+    float: right;
+} */
+
+.wrap-all {
+    display: flex;
+    max-width: 1170px;    
+}
+
+.about-me-content {
+    width: 50%;
+}
+
+.about-me-avatar {
+    width: 150px;
+    max-width: 200px;
+    
+}
+
+.about-pic {
+    width: 50%;
+    text-align: left;
+    vertical-align: text-top;
+}
