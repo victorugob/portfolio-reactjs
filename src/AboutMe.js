@@ -15,7 +15,7 @@ export default function AboutMe() {
                         <div className="about-pic">
                         <img className="about-me-avatar" src={avatar} />
                         </div>
-                        <div className="about-subtitle"><h4>Afinal, quem sou eu?</h4></div>
+                        <div className="about-subtitle"><h4>Afinal, quem sou eu?</h4></div> <br />
                        <div className="about-me-descript"> <p>Sed congue nunc nisi, eget cursus diam lacinia eget. 
                             Morbi tristique nunc sed mauris ornare, vel tincidunt metus pulvinar. 
                             Phasellus dolor nunc, auctor quis venenatis in, vestibulum ut sem. 

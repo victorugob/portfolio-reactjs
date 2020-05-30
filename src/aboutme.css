@@ -25,3 +25,13 @@
     text-align: left;
     vertical-align: text-top;
 }
+
+h2.about-me-card:after {
+    content: "";
+    background: #ff5959;
+    border-radius: 25px;
+    display: block;
+    height: 5px;
+    margin-top: 14px;
+    width: 30px;
+}
